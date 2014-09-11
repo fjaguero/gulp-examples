@@ -1,4 +1,1 @@
-gulp-examples
-=============
-
-Gulp task examples
+Gulp task examples to show common workarounds.
