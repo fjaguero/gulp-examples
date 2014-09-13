@@ -1,0 +1,9 @@
+{
+  "name": "gulp-demo",
+  "description": "Demo tasks",
+  "devDependencies": {
+    "gulp": "~3.8.8",
+    "gulp-util": "~2.2.14",
+    "gulp-zip": "~0.3.4"
+  }
+}
